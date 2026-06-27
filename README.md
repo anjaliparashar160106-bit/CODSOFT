@@ -1,4 +1,3 @@
-Markdown
 # 🚀 CodSoft Internship - Python Programming Suite
 
 Welcome to my central repository for the **CodSoft Python Programming Internship**. This workspace houses a suite of 5 desktop applications engineered using Python and the Tkinter framework, focusing on clean modular layouts, dynamic event tracking, and robust functional workflows.
