@@ -1,12 +1,8 @@
-# 🚀 CodSoft Internship - Python Programming Suite
+🚀 CodSoft Internship - Python Programming Suite
+Welcome to my central repository for the CodSoft Python Programming Internship. This workspace houses a comprehensive suite of 5 desktop applications engineered using Python and the Tkinter framework, focusing on clean modular layouts, dynamic event tracking, and robust functional workflows.
 
-Welcome to my central repository for the **CodSoft Python Programming Internship**. This workspace houses a suite of 5 desktop applications engineered using Python and the Tkinter framework, focusing on clean modular layouts, dynamic event tracking, and robust functional workflows.
-
----
-
-## 📁 Repository Blueprint
-
-```text
+📁 Repository Blueprint
+Plaintext
 CODSOFT/
 │
 ├── Task_1_To_Do_List/
@@ -74,7 +70,7 @@ Standard Built-in Modules: random, string, sys, json
 Clone the repository vector:
 
 Bash
-git clone [https://github.com/anjaliparashar160106-bit/CODSOFT.git](https://github.com/anjaliparashar160106-bit/CODSOFT.git)
+git clone https://github.com/anjaliparashar160106-bit/CODSOFT.git
 Move inside the target folder component:
 
 Bash
